@@ -2,6 +2,11 @@
 
 A training project / https://github.com/stho32/Training
 
+**note to me:**
+
+  - unit testing is done using jest `npm run test` from repository root works nicely
+  - just continue with the next failing test
+
 
 # "numbermd" a tool for working with number groups in markdown files
 
