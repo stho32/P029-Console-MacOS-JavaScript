@@ -18,7 +18,7 @@ Now, when such a file grows or changes it becomes difficult to see which numbers
 - [X] A number group consists of:
   - [X] a prefix of some characters, all in upper case
   - [X] a number in 3 digits
-- [ ] We call a combination prefix + specific number a reference. E.g. R001 is a reference, derived from a specific number group.
+- [X] We call a combination prefix + specific number a reference. E.g. R001 is a reference, derived from a specific number group.
 - [ ] A reference is associated by putting (Xddd) next to the checkbox like so: "- [ ] (R001) ..."
 - [ ] A file might contain items using multiple different number groups
 

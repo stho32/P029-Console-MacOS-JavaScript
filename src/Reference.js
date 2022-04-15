@@ -1,4 +1,4 @@
-function Numbergroup(prefix, number)
+function Reference(prefix, number)
 {
     let api = {}
 
@@ -18,4 +18,4 @@ function Numbergroup(prefix, number)
     return api;
 }
 
-module.exports = Numbergroup;
+module.exports = Reference;
